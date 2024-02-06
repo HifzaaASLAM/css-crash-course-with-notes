@@ -1,0 +1,54 @@
+css stands for cascading style sheet.css is used to control the style of a web docyment in a simple and easy way.
+css to control the style and layout of multiple web pages all at once.
+css is created and maintained through group of people within the w3c called the css working group.
+//ways of inserting css
+1-external
+2-internal
+3-inline
+css id and class
+//css class
+it is used to specify a style for a group of elements.
+//css id
+it is used to specify a style for a single unique element.
+//css background property 
+css font
+// font-family property is used to change the face of a font.
+make font italique or oblique
+font-variant is used to create a small-caps effect
+font-size set the size of a text
+font-weight specifies the weight of a font.
+//text css
+//link css
+link signifies unvisited hyperlinks
+visited: vidited link
+hover : elememnt that currently has the user's mouse pointer hoverin on it.
+active: element which which the user is currently clicking.
+//border css
+border color
+border style
+border width
+border radius
+
+//list css
+list style-type allows u to control the shape or appearence of the marker.
+list-style-position
+
+//Box model css
+content :the content of the box where text and images appear
+padding:clears an area around the content . the padding is transparent
+border:a border that goes around padding and content
+margin:clears an area around the border.margin is also transparent
+
+//scrollbars/overflow
+visible:allows the content to overflow the borders of its containing element.
+hiddenn:
+scroll:
+auto:
+
+//positioning css---imp(see the code)
+//css float
+left:element floats to the left ofits container
+right:element float to the right of its container
+
+//css display
+to control layout
